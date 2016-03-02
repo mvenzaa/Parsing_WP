@@ -1,0 +1,7 @@
+<resources>
+
+    <dimen name="ID">17dp</dimen>
+    <dimen name="title">15dip</dimen>
+    <dimen name="author">13dip</dimen>
+
+</resources>
